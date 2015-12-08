@@ -1,2 +1,4 @@
 # theFirstOne
-My first repository here
+My first repository on GitHub
+
+I love  :coffee: and :beer:
